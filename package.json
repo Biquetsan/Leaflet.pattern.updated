@@ -1,5 +1,5 @@
 {
-	"name": "leaflet.pattern",
+	"name": "leaflet.pattern.updated",
 	"version": "0.1.0",
 	"description": "Provides the ability to use SVG patterns as backgrounds for Leaflet Paths.",
 	"dependencies": {
@@ -17,5 +17,8 @@
 		"test": "jake test",
 		"prepublish": "jake"
 	},
-	"keywords": ["gis", "map"]
+	"keywords": [
+		"gis",
+		"map"
+	]
 }
